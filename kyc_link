@@ -1,0 +1,52 @@
+<!--KYC LINK-->
+<mjml>
+  <mj-breakpoint width="480px"/>
+<mj-head>
+  <mj-font name="Avenir" href="font/Avenir.ttc" />
+
+  <mj-attributes>
+  <mj-section padding="0px"/>
+    <mj-text font-family="Avenir, Verdana" padding="0px" />
+    <mj-column padding="0px"/>
+    <mj-wrapper padding="0px"/>
+    <mj-image padding="0px"/>
+  </mj-attributes>
+  
+  <mj-style inline="inline">
+    .logo{
+    max-width:640px;
+    
+    }
+    
+    .otp{
+  
+    max-width:480px;
+    padding: 24px 0px 24px 0px;
+    border-radius:10px;
+
+   background: linear-gradient(0deg, rgba(253, 253, 253, 0.4), rgba(253, 253, 253, 0.4)),
+      linear-gradient(96.7deg, rgba(255, 255, 255, 0.67) 3.85%, rgba(255, 255, 255, 0.2278) 96.26%);
+    
+    }
+    
+    .name{
+    max-width: 480px;
+    font-size:20px;
+    
+    }
+    .name1{
+    font-size: 20px;
+    font-weight: 800;
+    color:black;
+    }
+    .letters{
+    font-size: 42px;
+    font-weight:800;
+    }
+    .footer1a{
+    max-width:296px;
+    }
+   
+    .footer1b{
+    max-width:296px;
+    }
