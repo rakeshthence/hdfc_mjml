@@ -1,0 +1,505 @@
+<!--KYC NOT DONE WITH PAN -->
+<mjml>
+  <mj-breakpoint width="480px"/>
+<mj-head>
+  <mj-font name="Avenir" href="font/Avenir.ttc" />
+
+  <mj-attributes>
+  <mj-section padding="0px"/>
+    <mj-text font-family="Avenir, Verdana" padding="0px" />
+    <mj-column padding="0px"/>
+    <mj-wrapper padding="0px"/>
+    <mj-image padding="0px"/>
+  </mj-attributes>
+  
+  <mj-style inline="inline">
+    .logo{
+    max-width:640px;
+    
+    }
+    
+    .otp{
+  
+    max-width:480px;
+    padding: 24px 0px 24px 0px;
+    border-radius:10px;
+
+   background: linear-gradient(0deg, rgba(253, 253, 253, 0.4), rgba(253, 253, 253, 0.4)),
+      linear-gradient(96.7deg, rgba(255, 255, 255, 0.67) 3.85%, rgba(255, 255, 255, 0.2278) 96.26%);
+    
+    }
+    
+    .name{
+    max-width: 480px;
+    font-size:20px;
+    
+    }
+    .name1{
+    font-size: 20px;
+    font-weight: 800;
+    color:black;
+    }
+    .letters{
+    font-size: 42px;
+    font-weight:800;
+    }
+    .footer1a{
+    max-width:296px;
+    }
+   
+    .footer1b{
+    max-width:296px;
+    }
+    .footer2{
+    max-width:592px;
+    
+    
+    }
+   
+    .number{
+    font-size: 16px;
+    font-weight: 800;
+    color:#ba2020;
+    line-height:22.4px;
+    }
+    .cta{
+    padding-top:16px;
+    padding-bottom:40px;
+    border-radius: 60px;
+    width: 200px;
+    }
+    .cta1{
+    max-width:480px;
+    }
+    .download{
+    padding:10px;
+    line-height:50px;
+    }
+.centeralign{
+    padding-left:9%;
+    padding-right:9%;
+    }
+    .gapwidth{
+    max-width:192px;
+    
+    }
+    .leftwidth{
+    max-width:296px;
+    }
+    .footerpadding{
+    padding-top:24px;
+    
+    }
+    .caller{
+    border-radius:10px;
+    }
+    
+    
+.callerbg{
+    background:rgba(253, 253, 253, 0.4)
+ url("https://i.ibb.co/mz2H65T/phonehand123.png");
+border-radius:10px;
+   
+    background-size: 72px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    box-shadow: 0px 24px 80px 30px rgba(47, 97, 157, 0.1);
+
+
+    
+    }
+    .wrapperbg{
+      background: url("https://www.hdfcergo.com/mailerimages/healthmailer/Grid.png"),#E1EEFF;
+      background-size: contain;
+
+      background-repeat: no-repeat;
+
+     
+
+
+
+      }
+    .footerbg{
+    background: rgba(253, 253, 253, 0.4);
+     box-shadow: 0px 24px 80px 30px rgba(47, 97, 157, 0.1);
+    }
+     .footerTC{
+    max-width:640px;
+    
+    }
+    
+   
+
+   
+  </mj-style>
+ 
+  
+  </mj-head>
+  
+  <mj-body width="720px">
+   
+    <mj-wrapper  css-class="wrapperbg"
+ >
+      
+      
+       <mj-section padding-left="20px" padding-right="20px" padding-top="60px" >
+      <mj-raw>
+        <table width="100%" style=" max-width:640px; margin:0 auto;">
+        <tr>
+          <td style="text-align:right;">
+          <img src="https://www.hdfcergo.com/mailerimages/healthmailer/hdfc_logo.png" width="64px" />
+          
+          </td>
+          </tr>
+        
+        </table>
+        
+        </mj-raw>
+      
+      </mj-section>
+         
+      <mj-section padding-left="20px" padding-right="20px" padding-bottom="32px" >
+        <mj-column css-class="name">
+            <mj-text padding-bottom="16px" font-size="20px" font-weight="500" line-height="28px"  color="#3b5172">Dear <span class="name1"><!--variable content -->XXX,</span></mj-text>
+           <mj-text padding-bottom="12px" font-size="28px" font-weight="900" font-size="28px" line-height="32px">Your Health Insurance<br> Application Update</mj-text>
+          
+          <mj-text font-size="18px" font-weight="400" line-height="28px" color="#3b5172">
+    Great news! You're just a few steps away from safeguarding your well-being with HDFC ERGO Health Insurance.
+        </mj-text>
+          
+        
+        </mj-column>
+
+      </mj-section>
+      
+      
+      
+    <mj-section padding-left="20px" padding-right="20px" padding-bottom="20px">
+      <mj-raw>
+       <div style="margin:0 auto; border:1px solid white; border-radius:20px; max-width:480px;">
+          <table class="content" style="text-align:left; max-width:480px; margin-left:auto; margin-right:auto; background:#F6FAFF;
+ width:100%; border-radius:20px; 
+
+ ">
+        <tr >
+       
+          <td style="padding:24px 32px 24px 32px; background: #FFFFFF; border-radius:20px;">
+              <p style="font-family:Avenir; font-size:16px; color:#3b5172; margin-top:0; margin-bottom:0; line-height:22.4px; padding-bottom:4px;">Insurance Plan</p>
+              <p style="font-family:Avenir; font-size:20px; color:black; font-weight:800; line-height:28px;margin-top:0; margin-bottom:0; "><!--variable content -->Health Koti Suraksha -
+1 Crore Health Insurance Policy</p>
+           
+
+          </td>
+          </tr>
+          <tr>
+          <td>
+            
+            </td>
+          </tr>
+          
+          
+           
+          
+          
+          <tr>
+          <td style="padding:32px 32px 20px 32px">
+            <table>
+            <tr>
+              <td style="vertical-align:top;">
+                <img src="https://www.hdfcergo.com/mailerimages/healthmailer/Iconmoney.png" width="40px" height="auto"/>
+              </td>
+               <td style="padding-left:12px; vertical-align:middle;">
+                <p style="font-family:Avenir; font-size:14px; font-weight:400; color:#3b5172; margin-top:0; margin-bottom:0; line-height:19.6px; padding-bottom:4px">Sum insured</p>
+                  <p style="font-family:Avenir; font-size:16px; font-weight:800; color:black;margin-top:0; margin-bottom:0;line-height:22.4px;"><!--variable content-->₹10,00,000/-</p>
+              </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+          
+          
+          
+          
+           <tr>
+          <td style="padding:0px 32px 20px 32px">
+            <table>
+            <tr>
+              <td style="vertical-align:top;">
+                <img src="https://www.hdfcergo.com/mailerimages/healthmailer/umbrellaIcon.png"  width="40px" height="auto"/>
+              </td>
+               <td style="padding-left:12px; vertical-align:middle;">
+                <p  style="font-family:Avenir; font-size:14px; font-weight:400; color:#3b5172; margin-top:0; margin-bottom:0; line-height:19.6px; padding-bottom:4px;">Aggregate deductible</p>
+                  <p style="font-family:Avenir; font-size:16px; font-weight:800; color:black;margin-top:0; margin-bottom:0;line-height:22.4px;"><!--variable content -->₹3,000/-</p>
+              </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+          
+           <tr>
+          <td style="padding:0px 32px 20px 32px">
+            <table>
+            <tr>
+              <td style="vertical-align:top;">
+                <img src="https://www.hdfcergo.com/mailerimages/healthmailer/calenderIcon.png" width="40px" height="auto"/>
+              </td>
+               <td style="padding-left:12px; vertical-align:middle;">
+                <p  style="font-family:Avenir; font-size:14px; font-weight:400; color:#3b5172; margin-top:0; margin-bottom:0; line-height:19.6px; padding-bottom:4px;">Tenure</p>
+                  <p style="font-family:Avenir; font-size:16px; font-weight:800; color:black;margin-top:0; margin-bottom:0;line-height:22.4px;"><!--variable content -->3 Years</p>
+              </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+           <tr>
+          <td style="padding:0px 32px 20px 32px">
+            <table>
+            <tr>
+              <td style="vertical-align:top;">
+                <img src="https://www.hdfcergo.com/mailerimages/healthmailer/peopleIcon.png"width="40px" height="auto"/>
+              </td>
+               <td style="padding-left:12px; vertical-align:middle;">
+                <p style="font-family:Avenir; font-size:14px; font-weight:400; color:#3b5172; margin-top:0; margin-bottom:0; line-height:19.6px; padding-bottom:4px;">No. of members</p>
+                  <p style="font-family:Avenir; font-size:16px; font-weight:800; color:black;margin-top:0; margin-bottom:0;line-height:22.4px;"><!--variable content -->3 Adult, 1 Child</p>
+              </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+          
+           <tr>
+          <td style="padding:0px 32px 32px 32px">
+            <table>
+            <tr>
+              <td style="vertical-align:top;">
+                <img src="https://www.hdfcergo.com/mailerimages/healthmailer/addonsIcon.png" width="40px" height="auto"/>
+              </td>
+               <td style="padding-left:12px; vertical-align:middle;">
+                <p style="font-family:Avenir; font-size:14px; font-weight:400; color:#3b5172; margin-top:0; margin-bottom:0; line-height:19.6px; padding-bottom:4px;">Add-ons</p>
+                  <p  style="font-family:Avenir; font-size:16px; font-weight:800; color:black;margin-top:0; margin-bottom:0;line-height:22.4px;"><!--variable content -->Cashless Hospital, Easy access card</p>
+              </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+        </div>
+      
+        </mj-raw>
+      </mj-section>
+      
+      <mj-section padding-bottom="32px" padding-left="20px" padding-right="20px">
+      <mj-column css-class="name">
+        <mj-text font-size="18px" font-weight="400" line-height="28px" color="#3b5172">
+      Elevate your experience with us! Complete a quick one-step KYC for seamless progress.
+
+
+        </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section padding-left="20px" padding-right="20px" padding-bottom="40px">
+      <mj-raw>
+        <table class="main" width="100%" style="max-width:480px; margin:0 auto;">
+        <tr>
+          <td>
+          <table class="sub" >
+            <tr>
+            <td style="background:#d92c1c;
+ padding:16px 24px 16px 24px; border-radius:60px">
+              <table width="100%">
+              <tr>
+                <td style="vertical-align:middle">
+                  <p style="margin-top:0; margin-bottom:0; font-size:14px; font-weight:800; color:white; font-family:Avenir;"><!--variable content-->COMPLETE KYC</p></td>
+                 <td style="vertical-align:middle; padding-left:10px;"><img src="https://www.hdfcergo.com/mailerimages/healthmailer/Arrowwhite.png" alt="Arrow" width="24px"/></td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+            </table>
+          </td>
+          </tr>
+        </table>
+        </mj-raw>
+      </mj-section>
+      
+      
+        <mj-section padding-bottom="40px">
+        <mj-column>
+          <mj-image src="https://www.hdfcergo.com/mailerimages/healthmailer/OTP-Verification.png"/>
+        </mj-column>
+      </mj-section>
+     
+      
+       <mj-section padding-left="20px" padding-right="20px" padding-bottom="40px">
+        <mj-raw>
+          <table class="main" width="100%" style="max-width:592px; margin:0 auto; text-align:left;">
+            <tr>
+              <td>
+
+                <table class="sub" width="100%" style="max-width:425px; display:inline-block; ">
+                  <tr>
+                    <td >
+                      <table class="inner" style="max-width: 300px;">
+                        <tr>
+                          <td style="padding-bottom:16px;">
+                             <p style="margin-top:0; margin-bottom:0; font-family:Avenir; font-size:18px; font-weight:400; color:#3b5172; line-height:25.2px;">
+                                Looking forward to assist you and provide the best service at every step.
+                             </p>
+
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+
+                  </tr>
+                </table>
+
+
+                <table class="sub" width="100%" style="max-width:160px; display:inline-block;">
+                <tr>
+                  <td>
+                  <img src="https://www.hdfcergo.com/mailerimages/healthmailer/footer_Heart.png" width="48px" style="padding-bottom:8px;" />
+                    <p style="margin-top:0; margin-bottom:0;font-family:Avenir; font-size:18px; font-weight:400; color:#3b5172; line-height:25.2px;">Best Regards,</p>
+                     <p style="margin-top:0; margin-bottom:0;font-family:Avenir; font-size:18px; font-weight:800; color:#3b5172; line-height:25.2px;">Team HDFC ERGO</p>
+                  
+                  </td>
+                  
+                  </tr>
+                
+                </table>
+
+
+              </td>
+
+            </tr>
+
+          </table>
+        </mj-raw>
+
+      </mj-section>
+
+
+<mj-section padding-left="20px" padding-right="20px" padding-bottom="40px">
+        <mj-raw>
+          <table width="100%" style="max-width:592px; margin:0 auto; text-align:left;">
+            <tr>
+              <td style="
+               background-color:#F6FAFF;
+      
+      border-radius:10px;">
+                <table width="100%">
+                <tr>
+                  <td style="padding:24px 0px 24px 20px; max-width:433px;">
+                    <p style="margin-top:0; margin-bottom:0; font-family:Avenir; font-size:18px; font-weight:800; line-height:25.2px; color:black;">Have Questions or Need Help?</p>
+                <p style="margin-top:0; margin-bottom:0; font-family:Avenir; font-size:14px; font-weight:400; line-height:19.6px; color:#3b5172;">Call us at <span class="number">022 6242 6242</span>, Our experts are here to help!</p>
+                  </td>
+                  
+                  <td style="vertical-align:bottom;"><img src='https://www.hdfcergo.com/mailerimages/healthmailer/footer_callus.png' alt="herepic" border="0" width="55px" /></td>
+                  </tr>
+                </table>
+
+              </td>
+              
+            </tr>
+          </table>
+
+        </mj-raw>
+      </mj-section>
+    
+
+
+
+      
+      
+      
+      <mj-section padding-left="20px" padding-right="20px" padding-bottom="24px">
+      <mj-raw>
+        <table class="main" width="100%" style="max-width:592px; margin:0 auto; text-align:left; border-spacing:0; padding:0;">
+        <tr>
+          <td style="background-color:#F6FAFF; border-radius:10px; text-align:center;
+">
+            
+          <table class="sub" width="100%" style="max-width:382px; display:inline-block; vertical-align:top; border-spacing:0;">
+            <tr>
+            <td style="padding: 24px 24px 24px 24px; text-align:left;">
+              <table style="border-spacing:0;">
+              <tr>
+                <td >
+                 <img src="https://www.hdfcergo.com/mailerimages/healthmailer/here_app_logo.png" alt="herepic" border="0" width="84px" style="padding-bottom:6px;"/>
+              <p style="margin-top:0; margin-bottom:0; font-family:Avenir; font-size:18px; font-weight:800; color:#3b5172; line-height:25.2px; padding-bottom:20px;">One stop solution for all your vehicle, health and insurance needs</p>
+                  <table style="border-spacing:0;">
+                  <tr>
+                    <td style="background: #d92c1c; border-radius:60px; padding:16px 24px 16px 24px;
+">
+                    <table style="border-spacing:0;">
+                      <tr>
+                        <td><img src="https://www.hdfcergo.com/mailerimages/healthmailer/white_download.png"alt="downloadiconwhite" border="0" width="24px"/></td>
+                        <td style="padding-left:8px;"><p style="margin-top:0; margin-bottom:0; font-family:Avenir; font-size:14px; font-weight:800; color:white; line-height:25.2px;"><!--variable content-->DOWNLOAD APP</p></td>
+                      </tr>
+                      </table>
+                    </td>
+                    </tr>
+                  </table>
+                </td>
+                </tr>
+              </table>
+            
+              
+              </td>
+            </tr>
+            
+            </table>
+            
+            
+             <table width="100%" style="max-width: 200px; display:inline-block; text-align:center; border-spacing:0; vertical-align:bottom;">
+            <tr>
+               <td width="260px" style="text-align:center;">
+                 <table width="100%" style="border-spacing:0; max-width:260px;">
+                 <tr>
+                   <td width="260px" style="text-align:center;">
+                    <img src="https://www.hdfcergo.com/mailerimages/healthmailer/blue_qr_code1.png" alt="qrcodephone3" border="0" width="200px"/>
+                   </td>
+                   </tr>
+                 </table>
+            
+              </td>
+               </tr>
+            </table>
+          
+          </td>
+          </tr>
+        
+        </table>
+        
+        </mj-raw>
+      
+      </mj-section>
+
+
+     
+      <mj-section css-class="centeralign" padding-bottom="40px">
+        <mj-column>
+          <mj-text font-size="14px" font-weight="400" line-height="19.6px" color="#3b5172">
+            Please note you will receive regular updates about your policy and claims (if any) digitally on your registered email address and mobile number. In case you wish to opt out, please write to care@hdfcergo.com.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section css-class="centeralign" padding-top="24px" padding-bottom="24px">
+      <mj-column css-class="footerTC">
+        <mj-text font-size="12px" font-weight="400" line-height="16.8px" color="#3b5172">
+        T&C Apply. HDFC ERGO General Insurance Company Limited. IRDAI Reg No: 146 CIN: U66030MH2007PLC177117.
+Registered & Corporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai - 400 020. Customer Experience Management, Customer Happiness Center: D-301, 3rd Floor, Eastern Business District (Magnet Mall), LBS Marg, Bhandup (West). MUMBAI - 400078. Maharashtra. Customer Service No: 022-6234 6234 / 0120-6234 6234. | care@hdfcergo.com | www.hdfcergo.com. For more details on the risk factors, terms and conditions, please read the sales brochure / prospectus before concluding the sale. Trade Logo displayed above belongs to HDFC Bank Ltd and ERGO International AG and used by the Company under license. UID: XXXXX.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+  </mj-body>
+</mjml>

@@ -1,0 +1,464 @@
+<!--OTP PAGE -->
+<mjml>
+  
+  <mj-breakpoint width="480px"/>
+<mj-head>
+  <mj-font name="Avenir" href="font/Avenir.ttc" />
+
+  <mj-attributes>
+  <mj-section padding="0px"/>
+    <mj-text font-family="Avenir, Verdana" padding="0px" />
+    <mj-column padding="0px"/>
+    <mj-wrapper padding="0px"/>
+    <mj-image padding="0px"/>
+  </mj-attributes>
+  
+  <mj-style inline="inline">
+    .logo{
+    max-width:640px;
+    
+    }
+    
+    .otp{
+  
+    max-width:480px;
+    padding: 24px 0px 24px 0px;
+    border-radius:10px;
+
+   background: linear-gradient(0deg, rgba(253, 253, 253, 0.4), rgba(253, 253, 253, 0.4)),
+      linear-gradient(96.7deg, rgba(255, 255, 255, 0.67) 3.85%, rgba(255, 255, 255, 0.2278) 96.26%);
+    
+    }
+    
+    .name{
+    max-width: 480px;
+    font-size:20px;
+    
+    }
+    .name1{
+    font-size: 20px;
+    font-weight: 800;
+    color:black;
+    }
+    .letters{
+    font-size: 42px;
+    font-weight:800;
+    }
+    .footer1a{
+    max-width:296px;
+    }
+   
+    .footer1b{
+    max-width:296px;
+    }
+    .footer2{
+    max-width:592px;
+    
+    
+    }
+   
+    .number{
+    font-size: 16px;
+    font-weight: 800;
+    color:#ba2020;
+    line-height:22.4px;
+    }
+    .cta{
+    padding-top:16px;
+    padding-bottom:40px;
+    border-radius: 60px;
+    width: 200px;
+    }
+    .download{
+    padding:10px;
+    line-height:50px;
+    }
+.centeralign{
+    padding-left:9%;
+    padding-right:9%;
+    }
+    .gapwidth{
+    max-width:192px;
+    
+    }
+    .leftwidth{
+    max-width:296px;
+    }
+    .footerpadding{
+    padding-top:24px;
+    
+    }
+    .caller{
+    border-radius:10px;
+    }
+   
+    
+    .callerbg{
+    background:rgba(253, 253, 253, 0.4)
+ url("https://i.ibb.co/mz2H65T/phonehand123.png");
+border-radius:10px;
+   
+    background-size: 72px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    box-shadow: 0px 24px 80px 30px rgba(47, 97, 157, 0.1);
+
+
+    
+    }
+    .wrapperbg{
+     background: url('https://i.ibb.co/gr0Pj1X/Grid.png'), linear-gradient(211.43deg, #FFE6E3 20.41%, #FFF6F6 39.45%, #FFFAFA 86.03%);
+
+      background-size: contain;
+      
+      background-repeat: no-repeat;
+    
+ 
+
+    
+    }
+    .footerbg{
+    background: rgba(253, 253, 253, 0.4);
+     box-shadow: 0px 24px 80px 30px rgba(47, 97, 157, 0.1);
+    }
+    .footerTC{
+    max-width:640px;
+    
+    }
+   
+
+   
+  </mj-style>
+ 
+  
+  </mj-head>
+  
+  <mj-body width="720px">
+   
+    <mj-wrapper  css-class="wrapperbg"
+ >
+      
+      
+      <mj-section padding-top="60px" padding-right="20px" padding-bottom="20px">
+        <mj-column css-class="logo">
+              <mj-image align="right"  src="https://i.ibb.co/k1v6qB9/image-507.png" width="64px"/>
+        
+        </mj-column>
+
+      </mj-section>
+         
+      <mj-section padding-left="20px" padding-right="20px" >
+        <mj-column css-class="name">
+            <mj-text padding-bottom="16px" font-size="20px" font-weight="500" line-height="28px"  color="#3b5172">Dear <span class="name1">Remin Felix</span></mj-text>
+           <mj-text padding-bottom="32px" font-size="28px" font-weight="900" font-size="28px" line-height="32px">Update on your proposal</mj-text>
+          
+           <mj-text padding-bottom="32px" font-size="20px" font-weight="400" line-height="32px" color="#3b5172">We identified that coverage cannot be provided for the following member(s) due to the medical report not meeting our coverage eligibility criteria.</mj-text>
+          
+        
+        </mj-column>
+
+      </mj-section>
+      
+      <mj-section padding-left="20px" padding-right="20px" padding-bottom="40px">
+      <mj-raw>
+        <table class="main" style="margin-left:auto; margin-right:auto; max-width:480px; width:100% ; text-align:left;">
+          
+          
+        <tr>
+          
+          
+          <td style="background: linear-gradient(96.7deg, rgba(255, 255, 255, 0.67) 3.85%, rgba(255, 255, 255, 0.2278) 96.26%),
+linear-gradient(0deg, rgba(253, 253, 253, 0.8), rgba(253, 253, 253, 0.8));
+;border-radius:20px;">
+            
+            
+          <table class="sub" width="100%">
+            
+            
+            <tr>
+              
+              
+            <td style="border-radius:10px">
+              
+              
+              <table style="width:100%; border-radius:10px;">
+                
+              <tr>
+                
+                <td style="border-radius:10px">
+                  
+                  
+                <table style=" width:100%; broder-radius:10px;">
+                
+                   <tr>
+                     
+                  <td  style="background: #FFFFFF4D;
+box-shadow: 0px 20px 80px -40.83000183105469px #F25D501A;
+; border-bottom-left-radius:20px; border-bottom-right-radius:20px;">
+                    
+                    <table>
+                    <tr>
+                      <td>
+                        <table style=" border-bottom-left-radius:20px; border-bottom-right-radius:20px; " width="100%">
+                       
+                    <tr>
+                      
+                      
+                       <td style="padding-top:24px; padding-left:32px; padding-right:16px;">
+                         
+                
+                         <img src="https://i.ibb.co/8N8vb7Q/securityicon.png" alt="securityicon" border="0" width="48px"/>
+                      
+                      </td>
+                      
+                      
+                      <td style="padding-right:32px; padding-top:24px;">
+                        
+                        <p style="line-height:19.6px; font-size:16px; font-weight:400; font-family:Avenir; color:#3b5172">
+                          Insurance Plan
+                        </p>
+                     <p style="line-height:28px; font-size:20px; font-weight:800; font-family:Avenir; color:black">Health Koti Suraksha -
+1 Crore Health Insurance Policy</p>
+                        
+                        
+                      </td>
+                      
+                      
+                       </tr>
+                       
+                        <tr>  
+                          
+                          <td style="padding-top:24px; padding-left:32px; padding-right:16px; padding-bottom:24px;">
+                            <img src="https://i.ibb.co/yhMyK5N/transactionicon.png" alt="transactionicon" border="0" width="48px"/>
+                          </td>
+                          
+                      <td style="border-bottom-left-radius:20px;padding-right:32px; padding-top:24px; padding-bottom:24px">
+                        
+                       <p style="line-height:19.6px; font-size:16px; font-weight:400; font-family:Avenir; color:#3b5172">Transaction ID</p>
+                          <p style="line-height:28px; font-size:20px; font-weight:800; font-family:Avenir; color:black">#QWIC78788989</p>
+                          
+                          </td>
+                          
+                       </tr>
+                     
+                    </table>
+                    
+                      </td>
+                      </tr>
+                      <tr>
+                      <td style="border-top: 1px solid #6868681A;
+">
+                        <table style="width:100%">
+                        <td style="padding-left:32px"><p style="font-family:Avenir; font-size:18px; font-weight:800; color:#3b5172">rejection letter</p></td>
+                           <td style="width:30px; padding-right:32px">
+                          <table style="text-align:right; width:100%;">
+                             <tr>
+                            <td style="text-align:right; padding-right:10px;"><img src="https://i.ibb.co/86zF1wH/Downloadorange.png" alt="Downloadorange" border="0" width="20px"/></td>
+                                 <td style="text-align:right;"> <p style="line-height:19.6px; font-size:16px; font-weight:400; font-family:Avenir; color:#3b5172">DOWNLOAD</p></td>
+                            </tr>
+                             </table>
+                          </td>
+                        </table>
+                        </td>
+                      </tr>
+                    </table>
+                    
+                   
+                     </td>
+                  </tr>
+                 <tr>
+                
+                  </tr>
+                  </table>
+                </td>
+                </tr>
+               
+              </table>
+              </td>
+            </tr>
+            
+            
+             <tr>
+            <td style="padding:32px; ">
+              <table width="100%">
+              <tr>
+                <td>
+              <p style="line-height:25.2px; font-size:24px; font-weight:800; font-family:Avenir; color:black">You can still be Insured!</p>
+                  <p style="line-height:22.4px; font-size:16px; font-weight:400; font-family:Avenir; color:#3b5172">Secure coverage for eligible members, after removing rejected members</p>
+                </td>
+               
+                </tr>
+                
+                <tr>
+                <td>
+                  <table style="width:100%; border-bottom: 1px solid rgba(104, 104, 104, 0.1)">
+                  <tr>
+                    <td>
+                    <table>
+                      <tr><td><p style="font-family:Avenir; font-size:18px; font-weight:800;">Navjot Kaur</p></td></tr>
+                        <tr><td>
+                          <table>
+                          <tr>
+                            <td style="padding-right:8px"><img src="https://i.ibb.co/ygtsfPf/steth.png" alt="steth" border="0" width="20px"/></td>
+                              <td><p style="font-family:Avenir; font-size:16px; font-weight:800; color:#3b5172">Tuberculosis</p></td>
+                            </tr>
+                          </table>
+                          </td></tr>
+                      </table>
+                    </td>
+                    <td style="width:20px; "><p style="font-family:Avenir; font-size:14px; font-weight:500; color:#D61100;background:
+linear-gradient(0deg, rgba(255, 63, 47, 0.16), rgba(255, 63, 47, 0.16)); padding:6px 10px 6px 10px; border-radius:4px;
+">rejected</p></td>
+                    </tr>
+                    
+                  </table>
+                  </td>
+                </tr>
+                
+                
+                 <tr>
+                <td>
+                  <table style="width:100%; ">
+                  <tr>
+                    <td>
+                    <table>
+                      <tr><td><p style="font-family:Avenir; font-size:18px; font-weight:800;">Sunil Kaur</p></td></tr>
+                        <tr><td>
+                          <table>
+                          <tr>
+                            <td style="padding-right:8px"><img src="https://i.ibb.co/ygtsfPf/steth.png" alt="steth" border="0" width="20px"/></td>
+                              <td><p style="font-family:Avenir; font-size:16px; font-weight:800; color:#3b5172">Diabetes</p></td>
+                            </tr>
+                          </table>
+                          </td></tr>
+                      </table>
+                    </td>
+                    <td style="width:20px; "><p style="font-family:Avenir; font-size:14px; font-weight:500; color:#D61100;background:
+linear-gradient(0deg, rgba(255, 63, 47, 0.16), rgba(255, 63, 47, 0.16)); padding:6px 10px 6px 10px; border-radius:4px;
+">rejected</p></td>
+                    </tr>
+                    
+                  </table>
+                  </td>
+                </tr>
+                
+                <tr>
+                <td style="padding-top:32px;">
+                  <table >
+                  <tr>
+                    <td >
+                      <table style="background: linear-gradient(262.6deg, #FA6E63 1.44%, #D82B1B 69.29%);
+; border-radius:60px; text-align:right;">
+                   <tr>
+               
+                      <td style="padding: 16px 10px 16px 24px; "><p style="font-size:14px; font-weight:800; font-family:Avenir; color:white;">RE - APPLY</p></td>
+                      <td style="padding: 16px 24px 16px 0px; text-align:right;"><img src="https://i.ibb.co/GcWXvgG/Arrowwhite.png" alt="Arrowwhite" border="0" width="24px"/></td>
+                </tr>
+                   </table>
+                    </td>
+                  
+                    </tr>
+                  </table>
+                  </td>
+                </tr>
+                
+                
+              </table>
+              </td>
+            </tr>
+            
+            </table>
+          </td>
+          </tr>
+        </table>
+        </mj-raw>
+      </mj-section>
+  
+      
+   
+      
+        <mj-section padding-bottom="40px">
+        <mj-column>
+          <mj-image src="https://i.ibb.co/T0TbpYN/rejectionnstp.png"/>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section padding-bottom="40px" css-class="centeralign">
+      <mj-column width="50%" >
+        <mj-text  font-size="18px" font-weight="500" line-height="22.4px" color="#3b5172" padding-bottom="16px" padding-top="27px">
+        Looking forward to assist you and provide the best service at every step.
+        </mj-text>
+        </mj-column>
+      <mj-column width="25%"></mj-column>
+         <mj-column width="25%">
+           <mj-image align="left" src="https://i.ibb.co/GFbJ7L2/Heart.png" width="48px"/>
+        <mj-text color="#3b5172" font-size="18px" font-weight="400" line-height="22.4px" >
+        Best Regards,
+        </mj-text>
+           <mj-text color="#3b5172" font-size="18px" font-weight="800" line-height="22.4px">
+        Team HDFC ERGO
+        </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      
+      
+     <mj-section css-class="centeralign" padding-bottom="40px">
+      <mj-column css-class="callerbg" border-radius="10px"
+ padding-left="20px" padding-right="20px" padding-top="24px" padding-bottom="24px">
+       <mj-text font-size="18px" font-weight="800" line-height="25.2px">
+        Questions or need help?
+        </mj-text>
+         <mj-text font-size="14px" font-weight="400" line-height="19.6px">
+       You can call us at <span class="number">+91 00000-00000</span>, Our experts are here to help!
+        </mj-text>
+       </mj-column>
+      </mj-section>
+      
+      
+      <mj-section padding-bottom="24px" css-class="centeralign">
+        <mj-wrapper css-class="footerbg" width="592px" border-radius="10px" >
+        
+        <mj-column width="50%" padding-left="24px" padding-top="24px" padding-right="24px">
+           <mj-image align="left" src= "https://i.ibb.co/n00d4fx/Here-app-landing-logo.png" width="100px" padding-bottom="10px"/>
+         
+          
+          <mj-text font-size="16px" font-weight="800" line-height="22.4px" color="#3b5172" padding-bottom="3px">One stop solution for all your vehicle, health and insurance needs</mj-text>
+         
+         
+         <mj-image align="center"  src="https://i.ibb.co/DpYzRQ2/Buttonsdownload.png" width="270px"></mj-image>
+          </mj-column>
+         
+       
+     
+         <mj-column padding-top="24px" css-class="footer3b" width="50%">
+        <mj-image src="https://i.ibb.co/GdsdqYV/qrcodephone-1.png" width="300px"/>
+           
+        </mj-column>
+        </mj-wrapper>
+       
+      </mj-section>
+    <mj-section css-class="centeralign" padding-bottom="40px">
+      <mj-column >
+      <mj-text font-size="14px" font-weight="400" line-height="19.6px"  color="#3b5172">
+        Please note you will receive regular updates about your policy and claims (if any) digitally on your registered email address and mobile number. In case you wish to opt out, please write to care@hdfcergo.com.
+        </mj-text>
+      </mj-column>
+      </mj-section>
+      <mj-section>
+      <mj-column>
+        <mj-text></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section css-class="centeralign" padding-top="24px" padding-bottom="24px">
+    <mj-column css-class="footerTC">
+      <mj-text font-size="12px" font-weight="400" line-height="16.8px" color="#3b5172">
+      *T&C Apply. HDFC ERGO General Insurance Company Limited. IRDAI Reg. No. 146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai – 400 020. For more details on the risk factors, terms and conditions, please read the policy document before concluding the sale. Trade Logo displayed above belongs to HDFC Bank Ltd and ERGO International AG and used by the Company under license. UID : XXXXX
+      </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+  </mj-body>
+</mjml>
