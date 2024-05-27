@@ -172,7 +172,7 @@
       <mj-section padding-left="20px" padding-right="20px" padding-bottom="32px">
         <mj-column css-class="name">
           <mj-text padding-bottom="16px" font-size="20px" font-weight="500" line-height="28px" color="#3b5172">Dear <span class="name1">
-              <!--variable content -->XXX,
+              <!-- ${PROD_Members.CUSTOMER_NAME} -->XXX,
             </span></mj-text>
           <mj-text padding-bottom="12px" font-size="28px" font-weight="900" font-size="28px" line-height="32px">KYC Pending,<br> you're almost there!</mj-text>
 
@@ -308,7 +308,7 @@ border-radius:20px; width:100%">
                       <td style="padding-left:12px;">
                         <p style="font-family:Avenir; font-size:14px; font-weight:400; color:#3b5172; line-height:19.6px; margin-top:0; margin-bottom:0; padding-bottom:4px; ">No. of members</p>
                         <p style="font-family:Avenir; font-size:16px; font-weight:800; color:black; line-height:22.4px; margin-top:0; margin-bottom:0; ">
-                          <!-- ${DynamicVariable.DYN_NO_MEMBER_ADULT} -->3 Adults, 1 Child
+                          <!-- ${DynamicVariable.DYN_NO_MEMBER_ADULT}, ${DynamicVariable.DYN_NO_MEMBER_CHILD} -->3 Adults, 1 Child
                         </p>
                       </td>
                     </tr>
