@@ -1,4 +1,4 @@
-<!--KYC NOT DONE WITH PAN -->
+<!--KYC NOT DONE WITH PAN  Consent letter-->
 <mjml>
   <mj-breakpoint width="480px" />
   <mj-head>
@@ -172,7 +172,7 @@
       <mj-section padding-left="20px" padding-right="20px" padding-bottom="32px">
         <mj-column css-class="name">
           <mj-text padding-bottom="16px" font-size="20px" font-weight="500" line-height="28px" color="#3b5172">Dear <span class="name1">
-              <!--variable content -->XXX,
+              <!--${PROD_Members.CUSTOMER_NAME} -->XXX,
             </span></mj-text>
           <mj-text padding-bottom="12px" font-size="28px" font-weight="900" font-size="28px" line-height="32px">We need your consent</mj-text>
 
@@ -690,8 +690,6 @@ border-radius:20px; width:100%">
         </mj-raw>
 
       </mj-section>
-
-
 
 
       <mj-section css-class="centeralign" padding-bottom="40px">
