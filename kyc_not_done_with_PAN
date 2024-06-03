@@ -17,6 +17,7 @@
           width: 100% !important;
           max-width: 100% !important
         }
+      }
     </mj-style>
     <mj-style inline="inline">
       .logo {
