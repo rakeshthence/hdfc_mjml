@@ -13,134 +13,135 @@
     </mj-attributes>
     <mj-style>
       @media (max-width: 480px) {
-      .mobile {
-      width: 100% !important;
-      max-width: 100% !important
+        .mobile {
+          width: 100% !important;
+          max-width: 100% !important
+        }
       }
     </mj-style>
     <mj-style inline="inline">
       .logo {
-      max-width: 640px;
+        max-width: 640px;
 
       }
 
       .otp {
 
-      max-width: 480px;
-      padding: 24px 0px 24px 0px;
-      border-radius: 10px;
+        max-width: 480px;
+        padding: 24px 0px 24px 0px;
+        border-radius: 10px;
 
-      background: linear-gradient(0deg, rgba(253, 253, 253, 0.4), rgba(253, 253, 253, 0.4)),
-      linear-gradient(96.7deg, rgba(255, 255, 255, 0.67) 3.85%, rgba(255, 255, 255, 0.2278) 96.26%);
+        background: linear-gradient(0deg, rgba(253, 253, 253, 0.4), rgba(253, 253, 253, 0.4)),
+          linear-gradient(96.7deg, rgba(255, 255, 255, 0.67) 3.85%, rgba(255, 255, 255, 0.2278) 96.26%);
 
       }
 
       .name {
-      max-width: 480px;
-      font-size: 20px;
+        max-width: 480px;
+        font-size: 20px;
 
       }
 
       .name1 {
-      font-size: 20px;
-      font-weight: 800;
-      color: black;
+        font-size: 20px;
+        font-weight: 800;
+        color: black;
       }
 
       .letters {
-      font-size: 42px;
-      font-weight: 800;
+        font-size: 42px;
+        font-weight: 800;
       }
 
       .footer1a {
-      max-width: 296px;
+        max-width: 296px;
       }
 
       .footer1b {
-      max-width: 296px;
+        max-width: 296px;
       }
 
       .footer2 {
-      max-width: 592px;
+        max-width: 592px;
 
 
       }
 
       .number {
-      font-size: 16px;
-      font-weight: 800;
-      color: #ba2020;
-      line-height: 22.4px;
+        font-size: 16px;
+        font-weight: 800;
+        color: #ba2020;
+        line-height: 22.4px;
       }
 
       .cta {
-      padding-top: 16px;
-      padding-bottom: 40px;
-      border-radius: 60px;
-      width: 200px;
+        padding-top: 16px;
+        padding-bottom: 40px;
+        border-radius: 60px;
+        width: 200px;
       }
 
       .cta1 {
-      max-width: 480px;
+        max-width: 480px;
       }
 
       .download {
-      padding: 10px;
-      line-height: 50px;
+        padding: 10px;
+        line-height: 50px;
       }
 
       .centeralign {
-      padding-left: 9%;
-      padding-right: 9%;
+        padding-left: 9%;
+        padding-right: 9%;
       }
 
       .gapwidth {
-      max-width: 192px;
+        max-width: 192px;
 
       }
 
       .leftwidth {
-      max-width: 296px;
+        max-width: 296px;
       }
 
       .footerpadding {
-      padding-top: 24px;
+        padding-top: 24px;
 
       }
 
       .caller {
-      border-radius: 10px;
+        border-radius: 10px;
       }
 
 
       .callerbg {
-      background: rgba(253, 253, 253, 0.4) url("https://i.ibb.co/mz2H65T/phonehand123.png");
-      border-radius: 10px;
+        background: rgba(253, 253, 253, 0.4) url("https://i.ibb.co/mz2H65T/phonehand123.png");
+        border-radius: 10px;
 
-      background-size: 72px;
-      background-repeat: no-repeat;
-      background-position: right bottom;
-      box-shadow: 0px 24px 80px 30px rgba(47, 97, 157, 0.1);
+        background-size: 72px;
+        background-repeat: no-repeat;
+        background-position: right bottom;
+        box-shadow: 0px 24px 80px 30px rgba(47, 97, 157, 0.1);
 
 
 
       }
 
       .wrapperbg {
-      background: url('https://www.hdfcergo.com/mailerimages/healthmailer/Grid.png'), #E1EEFF;
-      background-size: contain;
+        background: url('https://www.hdfcergo.com/mailerimages/healthmailer/Grid.png'), #E1EEFF;
+        background-size: contain;
 
-      background-repeat: no-repeat;
+        background-repeat: no-repeat;
 
       }
 
       .footerbg {
-      background: rgba(253, 253, 253, 0.4);
-      box-shadow: 0px 24px 80px 30px rgba(47, 97, 157, 0.1);
+        background: rgba(253, 253, 253, 0.4);
+        box-shadow: 0px 24px 80px 30px rgba(47, 97, 157, 0.1);
       }
 
       .footerTC {
-      max-width: 640px;
+        max-width: 640px;
 
       }
     </mj-style>
@@ -343,7 +344,7 @@ border-radius:20px; width:100%">
         </mj-column>
       </mj-section>
 
-      <mj-section padding-left="20px" padding-right="20px" padding-bottom="40px" >
+      <mj-section padding-left="20px" padding-right="20px" padding-bottom="40px">
         <mj-column css-class="name">
           <mj-raw>
             <tr>
@@ -377,7 +378,7 @@ border-radius:20px; width:100%">
       </mj-section>
 
 
-         <mj-section padding-left="20px" padding-right="20px" padding-bottom="24px" padding-top="36px">
+      <mj-section padding-left="20px" padding-right="20px" padding-bottom="24px" padding-top="36px">
         <mj-column css-class="name">
           <mj-text font-size="28px" font-weight="900" line-height="30px" padding-bottom="8px">
             What sets HDFC ERGO apart?
@@ -708,8 +709,8 @@ border-radius:20px; width:100%">
     <mj-section css-class="centeralign" padding-top="24px" padding-bottom="24px">
       <mj-column css-class="footerTC">
         <mj-text font-size="12px" font-weight="400" line-height="16.8px" color="#3b5172">
-                   Terms and conditions apply. *4X coverage means base Sum Insured + Plus Benefit (after 2 Policy Years) + Secure Benefit + Automatic Restore Benefit. **Settlement ratio for the period till H1FY24 is 100%. ^Healthcare Providers include Network hospitals and Diagnostic centers. Data As on 29th Feb 2024 ^^Amount paid till Q3FY24. ~For FY24 from Last document received date and time. HDFC ERGO General Insurance Company Limited. IRDAI Reg. No. 146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg. Churchgate, Mumbai - 400 020. For more details on the risk factors, terms and conditions, please read the sales brochure/ prospectus before concluding the sale. Trade Logo displayed above belongs to HDFC Bank Lad and ERGO International AG and used by the Company under license. UIN: my: Optima Secure HDFHUP24092V032324. UID: 14899.
-     	
+          Terms and conditions apply. *4X coverage means base Sum Insured + Plus Benefit (after 2 Policy Years) + Secure Benefit + Automatic Restore Benefit. **Settlement ratio for the period till H1FY24 is 100%. ^Healthcare Providers include Network hospitals and Diagnostic centers. Data As on 29th Feb 2024 ^^Amount paid till Q3FY24. ~For FY24 from Last document received date and time. HDFC ERGO General Insurance Company Limited. IRDAI Reg. No. 146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg. Churchgate, Mumbai - 400 020. For more details on the risk factors, terms and conditions, please read the sales brochure/ prospectus before concluding the sale. Trade Logo displayed above belongs to HDFC Bank Lad and ERGO International AG and used by the Company under license. UIN: my: Optima Secure HDFHUP24092V032324. UID: 14899.
+
         </mj-text>
       </mj-column>
     </mj-section>
